@@ -1,0 +1,20 @@
+# obhOd-diSCOrd
+
+> Актуальная версия с поддержкой голоса Discord в текущих условиях. Стабильнее, надежнее, быстрее
+
+obhOd-diSCOrd чинит обрыв до голосовых серверов Discord. Распаковали архив, запустили .bat от администратора — звонки снова идут.
+
+## Страницы
+- Сайт: https://wingkaisermind.github.io/obhOd-diSCOrd/
+- Релиз: https://github.com/wingkaisermind/obhOd-diSCOrd/releases/latest
+- Исходный код: https://github.com/wingkaisermind/obhOd-diSCOrd
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировки Discord
+- Discord не подключается
+- Discord connecting исправить
+- голосовой чат Discord не работает
+- zapret Discord
+
+Windows 10/11, без VPN, бесплатно.
